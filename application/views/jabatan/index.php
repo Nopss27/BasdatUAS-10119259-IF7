@@ -20,7 +20,7 @@
             <div class="col-md-10 mx-auto">
               <form action="" method="post">
                 <div class="input-group mb-2">
-                  <input type="text" name="cari" class="form-control text-center" placeholder="Cari Data Tamu">
+                  <input type="text" name="cari" class="form-control text-center" placeholder="Cari Data Jabatan">
                   <button class="btn btn-success" type="submit">Cari</button>
                 </div>
               </form>
